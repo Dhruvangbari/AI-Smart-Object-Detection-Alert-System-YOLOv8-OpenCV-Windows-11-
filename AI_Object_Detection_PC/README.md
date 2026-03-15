@@ -4,6 +4,7 @@
 An AI-powered real-time detection system built using Python, OpenCV, and YOLOv8.  
 This project detects humans and vehicles from a live webcam feed, captures images, logs events with timestamps, and optionally triggers alerts.
 
+
 Designed for:
 - Engineering mini-projects
 - Hackathons
